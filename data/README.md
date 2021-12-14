@@ -1,5 +1,7 @@
-## Compressed Segmented CT Lung Volumes
-Will upload soon...
+## Segmented CT Lung Volumes and Corresponding Clinical and Radio Features
+Extracted radio features and corresponding clinical features were provided.
+
+Compressed CT lung volumes will upload soon...
 
 ## Usage
 The original CT scan with over 300 MB, the segmented CT lung volume with over 100 MB, the compressed CT lung volume with 5 MB (lossless).
