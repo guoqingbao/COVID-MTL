@@ -2,7 +2,9 @@
 Multitask learning for automated COVID 19 diagnosis and severity assessment using CT scans
 
 ## Citation
-Guoqing Bao, Huai Chen, Tongliang Liu, Guanzhong Gong, Yong Yin, Lisheng Wang, Xiuying Wang, "COVID-MTL: Multitask Learning with Shift3D and Random-weighted Loss for COVID-19 Diagnosis and Severity Assessment", Pattern Recognition, 2021, 108499, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2021.108499.
+Guoqing Bao<sup>\*</sup>, Huai Chen, Tongliang Liu, Guanzhong Gong, Yong Yin, Lisheng Wang, Xiuying Wang<sup>\*</sup>, "COVID-MTL: Multitask Learning with Shift3D and Random-weighted Loss for COVID-19 Diagnosis and Severity Assessment", Pattern Recognition, 2021, 108499, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2021.108499.
+
+<sup>*</sup> Corresponding authors.
 
 ## Prerequisites
 The following python libraries are required:
