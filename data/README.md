@@ -1,7 +1,11 @@
 ## Segmented CT Lung Volumes and Corresponding Clinical and Radio Features
 Extracted radio features and corresponding clinical features were provided.
 
-Compressed CT lung volumes will upload soon...
+Segmented CT lung volumes (Compressed in DCM format, see below) can be found in a separate repository:
+
+https://cloudstor.aarnet.edu.au/plus/s/FV7zZ6f8BoYlafQ
+
+**Note: DCM file in this project is different from DICOM DCM file.**
 
 ## Usage
 The original CT scan with over 300 MB, the segmented CT lung volume with over 100 MB, the compressed CT lung volume with 5 MB (lossless).
