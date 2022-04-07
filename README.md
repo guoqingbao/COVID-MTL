@@ -12,7 +12,7 @@ The following python libraries are required:
 pytorch, cv2, radiomics, pydicom, sklearn, skimage, matplotlib, pandas, scipy, tensorflow and keras
 
 ## The dataset
-We provide the segmented CT lung volumes (about **7GB**, *.dtm and *.dcm; losslessly compressed) and corresponding extracted CT lung features (9 MB; radiofeatures.csv) of the COVID-19 cohort (1329 cases) under the "data" folder. The preprocessed dataset were obtained from the raw data (http://ictcf.biocuckoo.cn/HUST-19.php; about **300GB - 400GB**) using proposed unsupervised segmentation method. All of the preprocessed data has corresponding clinical features and outcomes (Patients.xlsx).
+We provide the segmented CT lung volumes (about **7GB**, *.dtm and *.dcm; losslessly compressed) and corresponding extracted CT lung features (9 MB; radiofeatures.csv) of the COVID-19 cohort (1329 cases) under the **"data"** folder. The preprocessed dataset were obtained from the raw data (http://ictcf.biocuckoo.cn/HUST-19.php; about **300GB - 400GB**) using proposed unsupervised segmentation method. All of the preprocessed data has corresponding clinical features and outcomes (Patients.xlsx).
 
 ## The framework
 The framework is composed of unsupervised lung segmentation, data preprocessing pipeline, feature extractioin, multitask learning model (3D CNN with Shift3D and Random-weighted loss), see more details in our paper: [https://www.sciencedirect.com/science/article/pii/S0031320321006750](https://www.sciencedirect.com/science/article/pii/S0031320321006750)
